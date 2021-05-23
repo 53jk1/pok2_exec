@@ -14,3 +14,8 @@ If you wanna execute
 ```
 ./exec
 ```
+
+or
+```
+./"fileName"
+```

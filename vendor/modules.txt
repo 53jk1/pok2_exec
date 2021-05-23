@@ -1,0 +1,4 @@
+# github.com/53jk1/pok2 v0.0.0-20210523135118-68300bfaf02b
+github.com/53jk1/pok2
+github.com/53jk1/pok2/interpolate
+github.com/53jk1/pok2/interpolate/linear
